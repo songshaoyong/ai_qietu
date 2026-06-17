@@ -1,0 +1,6 @@
+{
+  "name": "Sprite Slicer (智能切图工具)",
+  "description": "Upload a sprite sheet or a UI composite image and automatically detect, extract, and download individual image slices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
